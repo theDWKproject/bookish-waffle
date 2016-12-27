@@ -1,0 +1,17 @@
+{
+"name": "bookishwaffle",
+"version": "1.0.0",
+"description": "A project to create Note app",
+"main": "app.js",
+"scripts": {
+"test": "echo \"Error: no test specified\" && exit 1"
+},
+"author": "",
+"license": "ISC",
+"dependencies": {
+"express": "^4.14.0",
+"express-handlebars": "^3.0.0",
+"path": "^0.12.7",
+"request": "^2.74.0",
+}
+}
